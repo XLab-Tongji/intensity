@@ -16,7 +16,7 @@ if __name__ == "__main__":
 
         ts = data.values.ravel()
         period = 12
-        return ts, pericod
+        return ts, period
 
     def run_plan_A():
         # A. 模拟的用户交互
